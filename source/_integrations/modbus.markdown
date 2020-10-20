@@ -188,3 +188,5 @@ and restart Home Assistant, reproduce the problem, and include the log in the is
  - [Modbus Cover](/integrations/cover.modbus/)
  - [Modbus Sensor](/integrations/sensor.modbus/)
  - [Modbus Switch](/integrations/switch.modbus/)
+ - [Modbus Light](/integrations/light.modbus/)
+ 
